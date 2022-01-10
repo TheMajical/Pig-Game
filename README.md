@@ -1,6 +1,12 @@
 # Pig-Game
-This is a 2 player game
-First one who reach the 100 scores will win the game
-All you have to do is roll the dice and decide to hold your scores and gain them or roll another dice and see what happens
-because if the dice shows you "1",it will clear all your unholded scores
 
+## Acknowledgments
+
+- **Jonas Schmedtmann**, at [CodingHeroes.io](http://codingheroes.io/index.html), for making this JavaScript course available on [Udemy](https://www.udemy.com/the-complete-javascript-course)
+
+## Description
+Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold": If the player rolls a 1, they score nothing and it becomes the next player's turn. If the player rolls any other number, it is added to their turn total and the player's turn continues.
+First player who reaches 100 score will win the game.
+
+## Preview
+ - [Live Preview](https://piggame-majical.netlify.app/)
